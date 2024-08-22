@@ -3,5 +3,5 @@
 
 - 💼 I’m currently freelancing full-time for **Garda World**
 - 👨‍💻 I’m currently Working on a Next.js & React-Native app for a subdivision of Garda World
-- 📚 I’m currently learning Zig <a href="https://github.com/jessypouliot98/learn-to-zig" target="blank">Learn to Zig</a>
+- 📚 I’m currently learning <a href="https://github.com/jessypouliot98/learn-to-zig" target="blank">Zig</a>
 - 💬 Let's talk about **TypeScript, Reactjs & React-Native**
