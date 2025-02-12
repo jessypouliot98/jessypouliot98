@@ -7,4 +7,4 @@
 - 📚 I'm currently looking to explore more performant languages.
   - Recently gave a shot learning <a href="https://github.com/jessypouliot98/learn-to-zig" target="blank">Zig</a>
   - Looking forward to trying out Go-lang and graphQL for next side project.
-- 🏖️ When I'm not working you can find me doing one of these 🚴🏻‍♂️, 🏍️, 🏋🏻‍♂️, 🎮, 🛠️, ✈️, 🍳
+- 🏖️ When I'm not working you can find me doing one of these 🚴🏻‍♂️, 🏍️, 🏋🏻‍♂️, 🎮, 🛠️, ✈️, 🍳, 🤿
